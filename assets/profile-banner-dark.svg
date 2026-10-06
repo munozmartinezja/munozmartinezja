@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jonathan Alejandro Muñoz Martínez — Analista de Datos y Business Intelligence</title>
+  <desc id="desc">Portada profesional con estratos mineros que se transforman en una visualización de datos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#10171d"/>
+      <stop offset="1" stop-color="#1b2b34"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" x2="1">
+      <stop offset="0" stop-color="#a9582d"/>
+      <stop offset="1" stop-color="#e09a63"/>
+    </linearGradient>
+    <clipPath id="right-half">
+      <rect x="730" width="550" height="360"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <path d="M0 0h14v360H0z" fill="#c87941"/>
+  <path d="M48 52h92" stroke="#4ba3ad" stroke-width="4"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#f4f6f5">
+    <text x="48" y="112" font-size="22" font-weight="600" fill="#8fc7cc">Jonathan Alejandro Muñoz Martínez</text>
+    <text x="48" y="174" font-size="43" font-weight="700" letter-spacing="-.8">Analista de Datos &amp;</text>
+    <text x="48" y="226" font-size="43" font-weight="700" letter-spacing="-.8">Business Intelligence</text>
+    <text x="48" y="273" font-size="22" fill="#c8d0d3">Minería · Control de gestión · Reportabilidad operacional</text>
+    <text x="48" y="319" font-size="17" font-weight="600" fill="#dfa06d">Power BI   /   SQL   /   Python</text>
+  </g>
+
+  <g clip-path="url(#right-half)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M693 322C781 282 820 301 887 259s107-43 178-91 111-49 181-88" stroke="#314751" stroke-width="74" opacity=".55"/>
+    <path d="M704 326C792 286 834 304 900 263s103-42 174-89 111-49 179-87" stroke="#c87941" stroke-width="5"/>
+    <path d="M722 347C806 311 854 328 920 290s103-38 173-82 111-48 174-83" stroke="#dfa06d" stroke-width="2" opacity=".62"/>
+    <path d="M685 294C777 249 807 269 875 226s108-46 181-96 112-51 184-91" stroke="#4ba3ad" stroke-width="3" opacity=".72"/>
+    <path d="M676 261C770 216 797 234 866 190s107-47 182-98 110-51 184-92" stroke="#2c5d66" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(942 176)">
+    <path d="M0 98H266" stroke="#78909a" stroke-width="1" opacity=".55"/>
+    <rect x="14" y="54" width="24" height="44" rx="3" fill="#365d66"/>
+    <rect x="57" y="35" width="24" height="63" rx="3" fill="#3b717a"/>
+    <rect x="100" y="62" width="24" height="36" rx="3" fill="#365d66"/>
+    <rect x="143" y="16" width="24" height="82" rx="3" fill="#4ba3ad"/>
+    <rect x="186" y="42" width="24" height="56" rx="3" fill="#3b717a"/>
+    <rect x="229" y="3" width="24" height="95" rx="3" fill="url(#copper)"/>
+    <path d="M26 52L69 32l43 25 43-46 43 27 43-39" stroke="#f4f6f5" stroke-width="3" fill="none"/>
+    <g fill="#f4f6f5">
+      <circle cx="26" cy="52" r="4"/><circle cx="69" cy="32" r="4"/><circle cx="112" cy="57" r="4"/>
+      <circle cx="155" cy="11" r="4"/><circle cx="198" cy="38" r="4"/><circle cx="241" cy="-1" r="4"/>
+    </g>
+  </g>
+</svg>
